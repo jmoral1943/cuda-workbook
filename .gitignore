@@ -1,0 +1,13 @@
+# Binaries
+cuda-add
+cuda-matrix-mult
+cuda-matrix-mult-tile
+
+# Object files & shared libraries
+*.o
+*.so
+
+# Python & Notebook artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
